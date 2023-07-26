@@ -23,7 +23,7 @@ class _MagicBallScreenState extends State<MagicBallScreen> {
   ///текущий ответ
   String currentAnswer = '';
   ///видимость ответа
-  bool isAnswerVisible = false;
+  bool isAnswerVisible = true;
 
   ///функция, которая генерирует ответ шара
   void _shakeMagicBall() {
