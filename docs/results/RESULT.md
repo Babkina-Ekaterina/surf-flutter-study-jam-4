@@ -25,4 +25,4 @@ Android 12 (API 34)
 
 # Ссылки на демонстрацию работы/скриншоты
 
-Скриншоты
+[Скриншоты/скринкаст](https://github.com/Babkina-Ekaterina/surf-flutter-study-jam-4/tree/study-jam-4/docs/results/assets)
